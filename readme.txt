@@ -6,3 +6,4 @@ I love Git so much!
 
 Git has a mutable index called stage.
 Git tracks changes.
+Git tracks changes
