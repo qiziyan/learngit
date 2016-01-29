@@ -13,3 +13,4 @@ Create a new branch is quick and simple.
 Create a new branch is quick and simple.
 >>>>>>> featurel
 branch test2
+Git is a free solfware.
