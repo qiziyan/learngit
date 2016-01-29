@@ -5,3 +5,4 @@ Git is a free solfware.
 I love Git so much!
 
 Git has a mutable index called stage.
+Git tracks changes.
